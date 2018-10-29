@@ -1,5 +1,7 @@
 # nfdi-website
 
+Website for NFDI Workshop Musicology
+
 ## Project setup
 ```
 npm install

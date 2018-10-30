@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from './views/Home.vue'
+import Success from './views/Success'
+import Error from './views/Error'
 
 Vue.use(VueRouter)
 

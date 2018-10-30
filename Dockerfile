@@ -22,7 +22,6 @@ LABEL maintainer="Daniel Röwenstrunk for the ViFE"
 
 ARG SSMTP_AuthUser
 ARG SSMTP_AuthPass
-ARG CAPTCHA_PRIVATE_KEY
 
 RUN mkdir -p /var/www/html
 WORKDIR /var/www/html

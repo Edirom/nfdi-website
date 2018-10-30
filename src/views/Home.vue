@@ -23,13 +23,12 @@
               <input type="hidden" name="recipients" value="roewenstrunkbe_gaedirom.de" />
               <input type="hidden" name="required" value="" />
               <input type="hidden" name="subject" value="[NFDI-Muwi] Anmeldung" />
-              <input type="hidden" name="good_url" value="success" />
-              <input type="hidden" name="bad_url" value="error" />
+              <input type="hidden" name="good_template" value="form_ok.html" />
+              <input type="hidden" name="bad_template" value="form_bad.html" />
               <input type="hidden" name="derive_fields" value="" />
               <input type="hidden" name="csvfile" value="anmeldungen-nfdi.csv" />
               <input type="hidden" name="csvcolumns" value="name,email,institution,checkMail,checkWorkshop" />
-              <input type="hidden" name="autorespond"
-                     value="PlainFile=autorespond.txt,Subject=[NFDI-Muwi] Anmeldebestätigung,FromAddr=infobe_gazenmem.de" />
+              <input type="hidden" name="autorespond" value="PlainFile=autorespond.txt,Subject=[NFDI-Muwi] Anmeldebestätigung,FromAddr=infobe_gazenmem.de" />
               <input type="hidden" name="mail_options"
                      value="CharSet=utf-8" />
           <div class="form-group">

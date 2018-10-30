@@ -439,7 +439,10 @@ if (isset($aServerVars['SERVER_NAME']) && $aServerVars['SERVER_NAME'] !== "") {
 $EMAIL_NAME = "^[-a-z0-9._]+"; /* the '^' is an important security feature! */
 
 /* Help: http://www.tectite.com/fmdoc/target_email.php */
-$TARGET_EMAIL = array($EMAIL_NAME . "@zenmem\.de$");
+$TARGET_EMAIL = array($EMAIL_NAME . "@edirom\.de$",
+$EMAIL_NAME . "@upb\.de$",
+$EMAIL_NAME . "@uni-paderborn\.de$",
+$EMAIL_NAME . "@zenmem\.de$");
 
 /* Help: http://www.tectite.com/fmdoc/def_alert.php */
 $DEF_ALERT = "roewenstrunk@upb.de";

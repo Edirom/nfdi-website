@@ -21,13 +21,13 @@
       <div class="col-4" id="form-div">
           <form class="custom" name="form1" method="post" enctype="multipart/form-data" action="formmail.php" onsubmit="return validate_form(this)">
               <input type="hidden" name="recipients" value="roewenstrunkbe_gaedirom.de" />
-              <input type="hidden" name="required" value="email:Ihre E-Mail" />
+              <input type="hidden" name="required" value="" />
               <input type="hidden" name="subject" value="[NFDI-Muwi] Anmeldung" />
               <input type="hidden" name="good_template" value="form_ok.html" />
               <input type="hidden" name="bad_template" value="form_bad.html" />
               <input type="hidden" name="derive_fields" value="email" />
-              <input type="hidden" name="csvfile" value="anmeldungen2018.csv" />
-              <input type="hidden" name="csvcolumns" value="name,email,institut,mailinfo,workshop" />
+              <input type="hidden" name="csvfile" value="anmeldungen-nfdi.csv" />
+              <input type="hidden" name="csvcolumns" value="name,email,institution,checkMail,checkWorkshop" />
               <input type="hidden" name="autorespond"
                      value="PlainFile=autorespond.txt,Subject=[NFDI-Muwi] Anmeldebestätigung,FromAddr=infobe_gazenmem.de" />
               <input type="hidden" name="mail_options"

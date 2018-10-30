@@ -20,6 +20,16 @@ export default new VueRouter({
       name: 'home',
       component: Home
     },
+      {
+          path: '/success',
+          name: 'success',
+          component: Success
+      },
+      {
+          path: '/error',
+          name: 'error',
+          component: Error
+      },
     {
       path: '/about',
       name: 'about',

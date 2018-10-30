@@ -7,6 +7,7 @@
             <img src="../assets/uni.png" class="logo" style="padding: 10px 20px;"/>
             <img src="../assets/vife.png" class="logo" style="padding: 0 10px;" />
         </div>
+        <div id="version"><span>2018-10-30 v1.0.0</span></div>
     </footer>
 </template>
 
@@ -17,6 +18,13 @@
 </script>
 
 <style scoped>
+
+    #version {
+        clear: both;
+        float: right;
+        font-size: 0.5em;
+    }
+
     #footer {
         margin: 0 auto;
         z-index: 5;

@@ -31,7 +31,8 @@ COPY --from=builder /app/entrypoint.sh /usr/local/bin/
 RUN apt-get update && \
     apt-get install -y --no-install-recommends ssmtp && \
     apt-get clean && \
-    rm -r /var/lib/apt/lists/*
+    rm -r /var/lib/apt/lists/* && \
+    a2enmod rewrite
 
 ENTRYPOINT ["entrypoint.sh"]
 CMD ["apache2-foreground"]

@@ -130,6 +130,7 @@
     }
 
     p.heading {
+        margin-top: 2rem;
         margin-bottom: 0.25rem;
     }
 

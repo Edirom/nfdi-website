@@ -39,11 +39,12 @@
         padding: 0 2em;
         border-bottom: 1px solid #aaa;
         margin-bottom: 4ex;
+        background-color: #333;
     }
 
     .nav-masthead a {
         padding: .25rem 0;
-        color: #666;
+        color: #d0d0d0;
     }
 
     .nav-masthead .nav-link {
@@ -56,6 +57,6 @@
     }
 
     .nav-masthead .router-link-exact-active {
-        color: #000;
+        color: #fff;
     }
 </style>

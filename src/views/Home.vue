@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-
+    <h1>Einladung</h1>
     <div class="row">
       <div class="col-8" id="info-div">
-          <p>im Kontext der durch den Rat für Informationsinfrastrukturen (RfII) angestoßenen Diskussion über eine Nationale Forschungsdateninfrastruktur möchten wir (Gesellschaft für Musikforschung, Landesinitiative NFDI der Digitalen Hochschule NRW, Virtueller Forschungsverbund Edirom und Zentrum Musik – Edition – Medien) Sie herzlich zu einem</p>
+          <p>Im Kontext der durch den Rat für Informationsinfrastrukturen (RfII) angestoßenen Diskussion über eine Nationale Forschungsdateninfrastruktur möchten wir (Gesellschaft für Musikforschung, Landesinitiative NFDI der Digitalen Hochschule NRW, Virtueller Forschungsverbund Edirom und Zentrum Musik – Edition – Medien) Sie herzlich zu einem</p>
           <p class="text-center">„Workshop zu Forschungsdaten in der Musikwissenschaft / audio-visuelle Kulturgüter“</p>
           <p>am 13. Dezember (Beginn um 13.00 Uhr) und 14. Dezember (Ende um 13.00 Uhr) ins Heinz Nixdorf MuseumsForum in Paderborn einladen.</p>
           <p>Forschungsdaten und ihr Management gewinnen auch in den Geisteswissenschaften im Allgemeinen und in der Musikwissenschaft im Besonderen immer mehr an Bedeutung. Der RfII hat in seinen Papieren der letzten Jahre deutlich herausgestellt, dass es für den Umgang mit Forschungsdaten einer fachnahen, interdiziplinären, dezentralen Forschungsinfrastruktur bedarf. Hierzu ist eine Ausschreibung des Bundes und der Länder angekündigt worden, die zum Anfang kommenden Jahres erwartet wird.</p>
@@ -73,6 +73,10 @@ export default {
 </script>
 
 <style scoped>
+
+    h1 {
+        margin-bottom: 4ex;
+    }
 
   .home {
     background-color: #ffffff;

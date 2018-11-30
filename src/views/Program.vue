@@ -9,7 +9,8 @@
                 </p>
 
                 <p>
-                <span class="section-label">Begrüßung</span><span class="section-moderator">(Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit)</span>
+                    <span class="section-label">Begrüßung</span><br/>
+                    <span class="section-moderator">Dipl. Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn / Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn</span>
                 </p>
 
                 <p class="heading">
@@ -22,38 +23,58 @@
                 </p>
 
                 <p class="heading">
-                    <span class="section-label">Einführung in die Thematik und Berichte zum bisherigen Diskussionsstand</span><span class="section-moderator">(ca. 60 Minuten)</span>
+                    <span class="section-label">Einführung in die Thematik und Berichte zum bisherigen Diskussionsstand</span><br/>
+                    <span class="section-moderator">ca. 60 Minuten</span>
                 </p>
                 <p class="list">
-                    <span>Tagesordnung (Dipl-Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn / Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn)</span><br/>
-                    <span>Bericht des Rats für Informationsinfrastrukturen (Prof. Dr. Dr. Friederike Fless, Rat für Informationsinfrastrukturen, Deutsches Archäologisches Institut, Freie Universität Berlin)</span><br/>
-                    <span>Bericht zum Stand des NFDI-Prozesses (Dr. Ania López, Landesinitiative NFDI der Digitalen Hochschule NRW, Universität Duisburg-Essen)</span><br/>
-                    <span>Einführung in die Pläne zur Gründung einer <em>NFDI4Culture</em> (Prof. Dr. Dörte Schmidt, Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin)</span><br/>
-                    <span>Ebenen von und Prozesse in Infrastrukturen (Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit)</span>
+                    <span>Tagesordnung</span><br/>
+                    <span class="speaker">Dipl. Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn / Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn</span><br/>
+                    <span>Bericht des Rats für Informationsinfrastrukturen</span><br/>
+                    <span class="speaker">Prof. Dr. Dr. Friederike Fless, Rat für Informationsinfrastrukturen, Deutsches Archäologisches Institut, Freie Universität Berlin</span><br/>
+                    <span>Bericht zum Stand des NFDI-Prozesses</span><br/>
+                    <span class="speaker">Dr. Ania López, Landesinitiative NFDI der Digitalen Hochschule NRW, Universität Duisburg-Essen</span><br/>
+                    <span>Einführung in die Pläne zur Gründung einer <em>NFDI4Culture</em></span><br/>
+                    <span class="speaker">Prof. Dr. Dörte Schmidt, Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin</span><br/>
+                    <span>Ebenen von und Prozesse in Infrastrukturen</span><br/>
+                    <span class="speaker">Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit</span>
                 </p>
 
                 <p class="heading">
-                    <span class="section-label">Sektion 1: Impulsreferate und Diskussion zu Forschungsdaten aus unterschiedlichen Bereichen des musikbezogenen Kulturerbes in Bezug auf Forschungsgegenstände und Standards zu deren digitaler Erfassung</span><span class="section-moderator">(Moderation: Prof. Dr. Gudrun Oevel, Zentrum für Informations- und Medientechnologien (IMT), Universität Paderborn, ca. 90 Minuten)</span>
+                    <span class="section-label">Sektion 1: Impulsreferate und Diskussion zu Forschungsdaten aus unterschiedlichen Bereichen des musikbezogenen Kulturerbes in Bezug auf Forschungsgegenstände und Standards zu deren digitaler Erfassung</span><br/>
+                    <span class="section-moderator">Moderation: Prof. Dr. Gudrun Oevel, Zentrum für Informations- und Medientechnologien (IMT), Universität Paderborn, ca. 90 Minuten</span>
                 </p>
                 <p class="list">
-                    <span>Musikinstrumentensammlungen (Dr. Heike Fricke, BMBF-Projekt TASTEN, Museum für Musikinstrumente Leipzig)</span><br/>
-                    <span>Musikethnologie (N.N.)</span><br/>
-                    <span>Music Information Retrieval (N.N.)</span><br/>
-                    <span>Editionsphilologie (Peter Stadler M.A., Carl-Maria-von-Weber-Gesamtausgabe, Universität Paderborn)</span><br/>
-                    <span>Musikbezogene Metadaten (Dr. Ann Kersting-Meuleman, Sammlung Musik und Theater der Universitätsbibliothek Frankfurt/Main, IAML Deutschland)</span>
+                    <span>Musikinstrumentensammlungen</span><br/>
+                    <span class="speaker">Dr. Heike Fricke, BMBF-Projekt TASTEN, Museum für Musikinstrumente Leipzig</span><br/>
+                    <span>Musikethnologie</span><br/>
+                    <span class="speaker">N.N.</span><br/>
+                    <span>Music Information Retrieval</span><br/>
+                    <span class="speaker">N.N.</span><br/>
+                    <span>Editionsphilologie</span><br/>
+                    <span class="speaker">Peter Stadler M.A., Carl-Maria-von-Weber-Gesamtausgabe, Universität Paderborn</span><br/>
+                    <span>Musikbezogene Metadaten</span><br/>
+                    <span class="speaker">Dr. Ann Kersting-Meuleman, Sammlung Musik und Theater der Universitätsbibliothek Frankfurt/Main, IAML Deutschland</span>
                 </p>
 
                 <p class="heading">
-                    <span class="section-label">Sektion 2: Podiumsdiskussion zu Infrastrukturen: Bedarfe, existierende Angebote, Herausforderungen, rechtliche Rahmenbedingungen, Ebenen von Infrastrukturen und Rollen und Verantwortung einzelner Institutionen im Digitalisierung-, Forschungs- und Kurationsprozess (Lebenszyklen) von Daten</span><span class="section-moderator">(Moderation: Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit, ca. 90 Minuten)</span>
+                    <span class="section-label">Sektion 2: Podiumsdiskussion zu Infrastrukturen: Bedarfe, existierende Angebote, Herausforderungen, rechtliche Rahmenbedingungen, Ebenen von Infrastrukturen und Rollen und Verantwortung einzelner Institutionen im Digitalisierung-, Forschungs- und Kurationsprozess (Lebenszyklen) von Daten</span><br/>
+                    <span class="section-moderator">Moderation: Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit, ca. 90 Minuten</span>
                 </p>
                 <p class="list">
-                    <span>Peter Gietz M.A. (DAASI International, Vorstand DHd, DARIAH-DE)</span><br/>
-                    <span>Dr. Reiner Nägele (Musikabteilung Bayerische Staatsbibliothek und FID Musik)</span><br/>
-                    <span>Prof. Dr. Gudrun Oevel (Zentrum für Informations- und Medientechnologien (IMT), Universität Paderborn)</span><br/>
-                    <span>Johannes Sauter M.A. (Deutsches Museum Digital, KultSam)</span><br/>
-                    <span>Prof. Dr. Dörte Schmidt (Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin)</span><br/>
-                    <span>Prof. Torsten Schrade (Digitale Akademie der Akademie der Wissenschaften und der Literatur Mainz, Hochschule Mainz)</span><br/>
-                    <span>Prof. Dr. Nicole Schwindt (Staatliche Hochschule für Musik Trossingen, RISM)</span>
+                    <span>Peter Gietz M.A.</span><br/>
+                    <span class="speaker">DAASI International, Vorstand DHd, DARIAH-DE</span><br/>
+                    <span>Dr. Reiner Nägele</span><br/>
+                    <span class="speaker">Musikabteilung Bayerische Staatsbibliothek und FID Musik</span><br/>
+                    <span>Prof. Dr. Gudrun Oevel</span><br/>
+                    <span class="speaker">Zentrum für Informations- und Medientechnologien (IMT), Universität Paderborn</span><br/>
+                    <span>Johannes Sauter M.A.</span><br/>
+                    <span class="speaker">Deutsches Museum Digital, KultSam</span><br/>
+                    <span>Prof. Dr. Dörte Schmidt</span><br/>
+                    <span class="speaker">Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin</span><br/>
+                    <span>Prof. Torsten Schrade</span><br/>
+                    <span class="speaker">Digitale Akademie der Akademie der Wissenschaften und der Literatur Mainz, Hochschule Mainz</span><br/>
+                    <span>Prof. Dr. Nicole Schwindt</span><br/>
+                    <span class="speaker">Staatliche Hochschule für Musik Trossingen, RISM</span>
                 </p>
 
 
@@ -66,23 +87,31 @@
                 </p>
 
                 <p class="heading">
-                    <span class="section-label">Sektion 3: Konsortienbildung und Kooperation mit anderen Konsortien: Blick der möglichen Konsortiumspartner auf die bisherige Diskussion und Identifikation fächerübergreifender Gemeinsamkeiten zur Schärfung eines Konsortiumprofils; Spezifika eines denkbaren Konsortiums “NFDI4Culture” und Schnittstellen zu anderen Konsortien</span><span class="section-moderator">(Moderation: Dipl. Wirt.-Inf. Daniel Röwenstrunk, ca. 90 Minuten)</span>
+                    <span class="section-label">Sektion 3: Konsortienbildung und Kooperation mit anderen Konsortien: Blick der möglichen Konsortiumspartner auf die bisherige Diskussion und Identifikation fächerübergreifender Gemeinsamkeiten zur Schärfung eines Konsortiumprofils; Spezifika eines denkbaren Konsortiums “NFDI4Culture” und Schnittstellen zu anderen Konsortien</span><br/>
+                    <span class="section-moderator">Moderation: Dipl. Wirt.-Inf. Daniel Röwenstrunk, ca. 90 Minuten</span>
                 </p>
                 <p class="list">
-                    <span>Archäologie (Prof. Dr. Reinhard Förtsch, Deutsches Archäologisches Institut)</span><br/>
-                    <span>Kunstgeschichte (Dr. Georg Schelbert, Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin)</span><br/>
-                    <span>Geschichte (Dr. Martin Dröge, Institut für Neueste Geschichte, Universität Paderborn)</span><br/>
-                    <span>Digital Humanities im deutschsprachigen Raum (DHd) (N.N.)</span><br/>
-                    <span>NFDI-Konsortium zu Editionen, Textsammlungen und Wörterbücher (Prof. Torsten Schrade, Digitale Akademie der Akademie der Wissenschaften und der Literatur Mainz, Hochschule Mainz)</span><br/>
-                    <span>NFDI-Konsortium der Archäologie/Kunstgeschichte/Musikwissenschaft “NFDI4Culture” (Prof. Dr. Dörte Schmidt, Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin)</span>
+                    <span>Archäologie</span><br/>
+                    <span class="speaker">Prof. Dr. Reinhard Förtsch, Deutsches Archäologisches Institut</span><br/>
+                    <span>Kunstgeschichte</span><br/>
+                    <span class="speaker">Dr. Georg Schelbert, Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin</span><br/>
+                    <span>Beobachtungen zur Konsortiumsbildung in der Geschichte</span><br/>
+                    <span class="speaker">Dr. Martin Dröge, Institut für Neueste Geschichte, Universität Paderborn</span><br/>
+                    <span>Digital Humanities im deutschsprachigen Raum (DHd)</span><br/>
+                    <span class="speaker">N.N.</span><br/>
+                    <span>NFDI-Konsortium zu Editionen, Textsammlungen und Wörterbücher</span><br/>
+                    <span class="speaker">Prof. Torsten Schrade, Digitale Akademie der Akademie der Wissenschaften und der Literatur Mainz, Hochschule Mainz</span><br/>
+                    <span>NFDI-Konsortium der Archäologie/Kunstgeschichte/Musikwissenschaft “NFDI4Culture”</span><br/>
+                    <span class="speaker">Prof. Dr. Dörte Schmidt, Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin</span>
                 </p>
 
                 <p class="heading" style="margin-bottom: 1rem;">
-                    <span class="section-label">Sektion 4: Planung weiterer Schritte bei der Organisation eines Konsortiums und der Abstimmung mit weiteren Akteuren; Überlegungen zu den konkreten Aufgaben bei der Vorbereitung eines gemeinsamen Antrags</span><span class="section-moderator">(Moderation: Dr. Barbara Wiermann, Sächsische Landesbibliothek — Staats- und Universitätsbibliothek Dresden (SLUB) / Prof. Dr. Andreas Münzmay, Musikwissenschaftliches Seminar Detmold/Paderborn, ca. 90 Minuten)</span>
+                    <span class="section-label">Sektion 4: Planung weiterer Schritte bei der Organisation eines Konsortiums und der Abstimmung mit weiteren Akteuren; Überlegungen zu den konkreten Aufgaben bei der Vorbereitung eines gemeinsamen Antrags</span><br/>
+                    <span class="section-moderator">Moderation: Dr. Barbara Wiermann, Sächsische Landesbibliothek — Staats- und Universitätsbibliothek Dresden (SLUB) / Prof. Dr. Andreas Münzmay, Musikwissenschaftliches Seminar Detmold/Paderborn, ca. 90 Minuten</span>
                 </p>
 
                 <p class="heading">
-                    <span class="section-label">Zusammenfassung</span><span class="section-moderator">(Dr. Ania López / Prof. Dr. Dörte Schmidt / Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit, ca. 30 Minuten)</span>
+                    <span class="section-label">Zusammenfassung</span><br/><span class="section-moderator">Dr. Ania López / Prof. Dr. Dörte Schmidt / Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit, ca. 30 Minuten</span>
                 </p>
                 <br/>
             </div>
@@ -127,6 +156,15 @@
     .section-moderator {
         color: #666;
         padding-left: 0.5rem;
+        font-size: smaller;
+    }
+
+    p.list span.speaker {
+        color: #666;
+        padding-left: 3ex;
+        font-size: smaller;
+        margin-bottom: 1ex;
+        display: inline-block;
     }
 
     p.heading {
@@ -135,7 +173,7 @@
     }
 
     p.list span {
-        padding-left: 3ex;
+        padding-left: 2.5ex;
     }
 
 

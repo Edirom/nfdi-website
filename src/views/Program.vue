@@ -49,7 +49,7 @@
                     <span>Musikethnologie</span><br/>
                     <span class="speaker">N.N.</span><br/>
                     <span>Music Information Retrieval</span><br/>
-                    <span class="speaker">Prof. Dr. Aristotelis Hadjakos</span><br/>
+                    <span class="speaker">Prof. Dr. Aristotelis Hadjakos, Zentrum Musik- und Filminformatik, Hochschule für Musik Detmold</span><br/>
                     <span>Editionsphilologie</span><br/>
                     <span class="speaker">Peter Stadler M.A., Carl-Maria-von-Weber-Gesamtausgabe, Universität Paderborn</span><br/>
                     <span>Musikbezogene Metadaten</span><br/>

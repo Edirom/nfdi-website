@@ -19,6 +19,9 @@
               <span class="indent">&nbsp;</span>Daniel Röwenstrunk (Zentrum Musik – Edition – Medien)</p>
       </div>
       <div class="col-4" id="form-div">
+
+          <p>Leider müssen wir die Anmeldung aufgrund der räumlichen Beschränkung auf 80 Teilnehmer schließen.</p>
+
           <form class="custom" name="form1" method="post" enctype="multipart/form-data" action="formmail.php" onsubmit="return validate_form(this)">
               <input type="hidden" name="recipients" value="roewenstrunkbe_gaedirom.de" />
               <input type="hidden" name="required" value="" />
@@ -33,28 +36,28 @@
                      value="CharSet=utf-8" />
           <div class="form-group">
             <label for="email">Mail-Adresse</label>
-            <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Mail-Adresse eingeben">
+            <input disabled type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Mail-Adresse eingeben">
             <small id="emailHelp" class="form-text text-muted">Wir werden ihre Mail-Adresse nicht an dritte weiterreichen.</small>
           </div>
           <div class="form-group">
             <label for="name">Name</label>
-            <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+            <input disabled type="text" class="form-control" id="name" name="name" placeholder="Name">
               <small id="NameHelp" class="form-text text-muted">Wir benötigen Ihren Namen nur, wenn Sie sich für den Workshop anmelden.</small>
           </div>
             <div class="form-group">
                 <label for="institution">Institution</label>
-                <input type="text" class="form-control" id="institution" name="institution" placeholder="Institution">
+                <input disabled type="text" class="form-control" id="institution" name="institution" placeholder="Institution">
                 <small id="InsitutionHelp" class="form-text text-muted">Bitte geben Sie an, welche Institution auf Ihrem Namensschild stehen soll.</small>
             </div>
           <div class="form-group form-check">
-            <input type="checkbox" class="form-check-input" id="checkMail" name="checkMail">
+            <input disabled type="checkbox" class="form-check-input" id="checkMail" name="checkMail">
             <label class="form-check-label" for="checkMail">Bitte informieren Sie mich per Mail über die Veranstaltung.</label>
           </div>
             <div class="form-group form-check">
-                <input type="checkbox" class="form-check-input" id="checkWorkshop" name="checkWorkshop">
+                <input disabled type="checkbox" class="form-check-input" id="checkWorkshop" name="checkWorkshop">
                 <label class="form-check-label" for="checkWorkshop">Ich melde mich für die Veranstaltung an.</label>
             </div>
-          <button type="submit" class="btn btn-primary float-right">Absenden</button>
+          <button type="submit" class="btn btn-primary float-right" disabled>Absenden</button>
         </form>
       </div>
     </div>

@@ -95,8 +95,8 @@
                     <span class="speaker">Prof. Dr. Reinhard Förtsch, Deutsches Archäologisches Institut</span><br/>
                     <span>Kunstgeschichte</span><br/>
                     <span class="speaker">Dr. Georg Schelbert, Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin</span><br/>
-                    <span>Beobachtungen zur Konsortiumsbildung in der Geschichte</span><br/>
-                    <span class="speaker">Dr. Martin Dröge, Institut für Neueste Geschichte, Universität Paderborn</span><br/>
+                    <span>Beobachtungen zur Konsortiumsbildung im Fach Geschichte</span><br/>
+                    <span class="speaker">Dr. Martin Dröge, Neueste Geschichte, Universität Paderborn</span><br/>
                     <span>Digital Humanities im deutschsprachigen Raum (DHd)</span><br/>
                     <span class="speaker">N.N.</span><br/>
                     <span>NFDI-Konsortium zu Editionen, Textsammlungen und Wörterbücher</span><br/>

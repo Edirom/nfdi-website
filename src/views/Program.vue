@@ -98,8 +98,7 @@
                     <span>Beobachtungen zur Konsortiumsbildung im Fach Geschichte</span><br/>
                     <span class="speaker">Dr. Martin Dröge, Neueste Geschichte, Universität Paderborn</span><br/>
                     <span>Digital Humanities im deutschsprachigen Raum (DHd)</span><br/>
-                    <span class="speaker">N.N.</span><br/>
-                    <!--<span class="speaker">Peter Gietz M.A., DAASI International, Vorstand DHd, DARIAH-DE</span><br/>-->
+                    <span class="speaker">Peter Gietz M.A., DAASI International, Vorstand DHd, DARIAH-DE</span><br/>
                     <span>NFDI-Konsortium zu Editionen, Textsammlungen und Wörterbücher</span><br/>
                     <span class="speaker">Prof. Torsten Schrade, Digitale Akademie der Akademie der Wissenschaften und der Literatur Mainz, Hochschule Mainz</span><br/>
                     <span>NFDI-Konsortium der Archäologie/Kunstgeschichte/Musikwissenschaft “NFDI4Culture”</span><br/>

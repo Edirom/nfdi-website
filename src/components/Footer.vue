@@ -7,7 +7,7 @@
             <img src="../assets/uni.png" class="logo" style="padding: 10px 20px;"/>
             <img src="../assets/vife.png" class="logo" style="padding: 0 10px;" />
         </div>
-        <div id="version"><span>2018-12-03 v1.4.0</span></div>
+        <div id="version"><span>2018-12-04 v1.4.1</span></div>
     </footer>
 </template>
 

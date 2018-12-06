@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from './views/Home.vue'
 import Program from './views/Program.vue'
+import Docs from './views/Docs.vue'
 import Success from './views/Success'
 import Error from './views/Error'
 
@@ -37,6 +38,11 @@ export default new VueRouter({
       path: '/program',
       name: 'program',
       component: Program
-    }
+    },
+      {
+          path: '/docs',
+          name: 'docs',
+          component: Docs
+      }
   ]
 })

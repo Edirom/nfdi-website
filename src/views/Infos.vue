@@ -30,10 +30,10 @@
             </div>
             <div class="col-12 section">
                 <p>
-                    <span class="section-title">Gemeinsames Abendessen am Donnerstag im Welcome Hotel</span>
+                    <span class="section-title">Gemeinsames Abendessen am Donnerstag im Welcome Hotel (ab 19.00 Uhr)</span>
                 </p>
                 <p class="list">
-                    Am Donnerstagabend ist im Welcome Hotel ein Raum für die TeilnehmerInnen des Workshops reserviert.
+                    Am Donnerstagabend ist ab 19.00 Uhr im Welcome Hotel ein Raum für die TeilnehmerInnen des Workshops reserviert.
                 </p>
                 <p class="list">
                     <span class="section-label">Anschrift</span><br/>

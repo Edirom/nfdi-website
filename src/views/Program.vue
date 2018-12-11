@@ -5,21 +5,23 @@
         <div class="row">
             <div class="col-12">
                 <p>
-                    <span class="day-label">Donnerstag, 13. Dezember, 13–18 Uhr:</span>
+                    <span class="day-label">Donnerstag, 13. Dezember, 13.00 – 18.30 Uhr:</span>
                 </p>
 
                 <p>
                     <span class="section-label">Begrüßung</span><br/>
-                    <span class="section-moderator">Dipl. Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn / Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn</span>
+                    <span class="section-moderator">Dipl. Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn</span><br/>
+                    <span class="section-moderator">Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn</span>
                 </p>
 
                 <p class="heading">
                     <span class="section-label">Grußworte</span>
                 </p>
                 <p class="list">
-                    <span>Prof. Dr. Birgitt Riegraf für die Universität Paderborn</span><br/>
-                    <span>Prof. Dr. Dörte Schmidt für die Gesellschaft für Musikforschung</span><br/>
-                    <span>Dr. Ania López für die Landesinitiative NFDI der Digitalen Hochschule NRW</span>
+                    <span>Prof. Dr. Birgitt Riegraf, Präsidentin der Universität Paderborn</span><br/>
+                    <span>Prof. Dr. Dörte Schmidt, Präsidentin der Gesellschaft für Musikforschung</span><br/>
+                    <span>Dr. Ania López, Projektleiterin der Landesinitiative NFDI der Digitalen
+Hochschule NRW</span>
                 </p>
 
                 <p class="heading">
@@ -28,7 +30,7 @@
                 </p>
                 <p class="list">
                     <span>Tagesordnung</span><br/>
-                    <span class="speaker">Dipl. Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn / Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn</span><br/>
+                    <span class="speaker">Prof. Dr. Joachim Veit, Virtueller Forschungsverbund Edirom, Universität Paderborn</span><br/>
                     <span>Bericht des Rats für Informationsinfrastrukturen</span><br/>
                     <span class="speaker">Prof. Dr. Dr. Friederike Fless, Rat für Informationsinfrastrukturen, Deutsches Archäologisches Institut, Freie Universität Berlin</span><br/>
                     <span>Bericht zum Stand des NFDI-Prozesses</span><br/>
@@ -36,7 +38,11 @@
                     <span>Einführung in die Pläne zur Gründung einer <em>NFDI4Culture</em></span><br/>
                     <span class="speaker">Prof. Dr. Dörte Schmidt, Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin</span><br/>
                     <span>Ebenen von und Prozesse in Infrastrukturen</span><br/>
-                    <span class="speaker">Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit</span>
+                    <span class="speaker">Dipl. Wirt.-Inf. Daniel Röwenstrunk, Zentrum Musik – Edition – Medien, Universität Paderborn</span>
+                </p>
+
+                <p class="heading">
+                    <span class="section-label">Pause (14.30 – 15.00 Uhr)</span>
                 </p>
 
                 <p class="heading">
@@ -57,7 +63,11 @@
                 </p>
 
                 <p class="heading">
-                    <span class="section-label">Sektion 2: Podiumsdiskussion zu Infrastrukturen: Bedarfe, existierende Angebote, Herausforderungen, rechtliche Rahmenbedingungen, Ebenen von Infrastrukturen und Rollen und Verantwortung einzelner Institutionen im Digitalisierung-, Forschungs- und Kurationsprozess (Lebenszyklen) von Daten</span><br/>
+                    <span class="section-label">Pause (16.30 – 17.00 Uhr)</span>
+                </p>
+
+                <p class="heading">
+                    <span class="section-label">Sektion 2: Podiumsdiskussion zu Infrastrukturen: Bedarfe, existierende Angebote, Herausforderungen, rechtliche Rahmenbedingungen, Ebenen von Infrastrukturen und Rollen und Verantwortung einzelner Institutionen im Digitalisierungs-, Forschungs- und Kurationsprozess (Lebenszyklen) von Daten</span><br/>
                     <span class="section-moderator">Moderation: Dipl. Wirt.-Inf. Daniel Röwenstrunk / Prof. Dr. Joachim Veit, ca. 90 Minuten</span>
                 </p>
                 <p class="list">
@@ -82,8 +92,12 @@
                     Zur Beantwortung rechtlicher Fragen steht an diesem Nachmittag Prof. Dr. Christian Czychowski (Rechtsanwalt / Fachanwalt für IT, Urheber- u. Medienrecht) zur Verfügung.
                 </p>
 
-                <p>
-                    <span class="day-label">Freitag, 14. Dezember, 9–13 Uhr:</span>
+                <p class="heading">
+                    <span class="section-label">Gemeinsamens Abendessen im Welcome Hotel (ab 19.00 Uhr)</span>
+                </p>
+
+                <p style="margin-top: 3em;">
+                    <span class="day-label">Freitag, 14. Dezember, 9.00 – 13.00 Uhr:</span>
                 </p>
 
                 <p class="heading">
@@ -103,6 +117,10 @@
                     <span class="speaker">Prof. Torsten Schrade, Digitale Akademie der Akademie der Wissenschaften und der Literatur Mainz, Hochschule Mainz</span><br/>
                     <span>NFDI-Konsortium der Archäologie/Kunstgeschichte/Musikwissenschaft “NFDI4Culture”</span><br/>
                     <span class="speaker">Prof. Dr. Dörte Schmidt, Gesellschaft für Musikforschung, Bernd-Alois-Zimmermann-Gesamtausgabe, Universität der Künste Berlin</span>
+                </p>
+
+                <p class="heading">
+                    <span class="section-label">Pause (10.30 – 11.00 Uhr)</span>
                 </p>
 
                 <p class="heading" style="margin-bottom: 1rem;">

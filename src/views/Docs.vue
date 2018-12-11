@@ -16,6 +16,16 @@
                 <p>&nbsp;</p>
 
                 <p class="list">
+                    <span><a href="http://www.dfg.de/service/presse/pressemitteilungen/2018/pressemitteilung_nr_58/index.html" target="_blank">Nationale Forschungsdateninfrastruktur (NFDI): DFG übernimmt Auswahl und Evaluation der Konsortien</a></span><br/>
+                    <span class="section-info">Deutsche Forschungsgemeinschaft (DFG), Pressemitteilung Nr. 58, 7. Dezember 2018</span>
+                </p>
+
+                <p class="list">
+                    <span><a href="http://www.hsozkult.de/debate/id/diskussionen-4643" target="_blank">Historikertag 2018: Digitale Geschichte</a></span><br/>
+                    <span class="section-info">Historikertag 2018: Digitale Geschichte, in: H-Soz-Kult, 6. Dezember 2018</span>
+                </p>
+
+                <p class="list">
                     <span><a href="https://www.faz.net/aktuell/feuilleton/hoch-schule/chancen-der-nationalen-forschungsdatensammlung-15914287.html" target="_blank">Im Datenozean – Chancen der nationalen Forschungsdatensammlung</a></span><br/>
                     <span class="section-info">Torsten Schrade, Frankfurter Allgemeine Zeitung, 29. November 2018</span>
                 </p>
@@ -26,6 +36,11 @@
                 </p>
 
                 <p class="list">
+                    <span><a href="https://forschungsinfrastrukturen.de/doku.php/zusammenfassung-2018-10-04" target="_blank">Zusammenfassung 04.10.2018</a></span><br/>
+                    <span class="section-info">Workshop Wissenschaftsgeleitete Forschungsinfrastrukturen für die Geistes- und Kulturwissenschaften in Deutschland: Politische Perspektive, Berlin, 4. Oktober 2018</span>
+                </p>
+
+                <p class="list">
                     <span><a href="https://doi.org/10.5281/zenodo.1442845" target="_blank">Vorschlag der AG Datenzentren im DHd zur Bildung und Strukturierung eines NFDI-Konsortiums für die Geisteswissenschaften</a></span><br/>
                     <span class="section-info">AG Datenzentren des DHd, 2. Oktober 2018</span>
                 </p>
@@ -33,6 +48,11 @@
                 <p class="list">
                     <span><a href="https://wikis.sub.uni-hamburg.de/webis/images/a/a1/AG_FID_zu_NFDI.pdf" target="_blank">Gemeinsame Stellungnahme der FID leitenden Einrichtungen und der AG Fachinformationsdienste (AG FID) zur Einbindung von Fachinformationsdiensten in den Aufbau einer Nationalen Forschungsdateninfrastruktur</a></span><br/>
                     <span class="section-info">Positionspapier der AG Fachinformationsdienste (FID) der DBV Sektion 4, 26. September 2018</span>
+                </p>
+
+                <p class="list">
+                    <span><a href="http://mainzed.org/empfehlungen/Daten_in_Forschung_Lehre_und_Transfer_I1.pdf" target="_blank">Daten in Forschung, Lehre und Transfer</a></span><br/>
+                    <span class="section-info">Empfehlungen des Mainzer Zentrums für Digitalität in den Geistes- und Kulturwissenschaften (mainzed), Mainz, 13. Juni 2018</span>
                 </p>
 
                 <p class="list">

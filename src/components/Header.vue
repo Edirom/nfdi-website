@@ -9,6 +9,7 @@
                     <router-link to="/program"><span class="nav-link">Programm</span></router-link>
                     <router-link to="/docs"><span class="nav-link">Dokumente und Links</span></router-link>
                     <router-link to="/infos"><span class="nav-link">Informationen</span></router-link>
+                    <router-link to="/minutes"><span class="nav-link">Protokoll</span></router-link>
                 </nav>
             </div>
         </header>
